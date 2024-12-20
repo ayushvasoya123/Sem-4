@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\lab_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00D26201-C67D-48D6-80DC-C90181FB1F0D}|lab_3.csproj|D:\\.net\\lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D26201-C67D-48D6-80DC-C90181FB1F0D}|lab_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D26201-C67D-48D6-80DC-C90181FB1F0D}|lab_3.csproj|d:\\.net\\lab_3\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D26201-C67D-48D6-80DC-C90181FB1F0D}|lab_3.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D26201-C67D-48D6-80DC-C90181FB1F0D}|lab_3.csproj|d:\\.net\\lab_3\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D26201-C67D-48D6-80DC-C90181FB1F0D}|lab_3.csproj|solutionrelative:calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\lab_3\\Sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\.net\\lab_3\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "D:\\.net\\lab_3\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:39:57.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "D:\\.net\\lab_3\\Calculate.cs",
+              "RelativeDocumentMoniker": "Calculate.cs",
+              "ToolTip": "D:\\.net\\lab_3\\Calculate.cs",
+              "RelativeToolTip": "Calculate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:39:10.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sum.cs",
+              "DocumentMoniker": "D:\\.net\\lab_3\\Sum.cs",
+              "RelativeDocumentMoniker": "Sum.cs",
+              "ToolTip": "D:\\.net\\lab_3\\Sum.cs",
+              "RelativeToolTip": "Sum.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:40:53.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\lab_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.net\\lab_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:18:44.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
